@@ -1,6 +1,7 @@
 
 # StudyNotion - EdTech Platform
 :rocket: [Link to website][https://edtech-frontend-qign.onrender.com/]
+backend-github-link : [https://github.com/codeal-coder/edtech-backend]
 
 
 ![Main Page](images/mainpage.png)

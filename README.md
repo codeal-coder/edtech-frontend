@@ -1,6 +1,6 @@
 
 # StudyNotion - EdTech Platform
-:rocket: [Link to website][https://studynotion-frontend.vercel.app/]
+:rocket: [Link to website][https://edtech-frontend-qign.onrender.com/]
 
 
 ![Main Page](images/mainpage.png)
